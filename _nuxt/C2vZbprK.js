@@ -1,0 +1,1 @@
+import{l as t,c as o,e as c,f as a,Q as s}from"./MtVcC9uU.js";const n={},r={class:"space-y-2 text-sm"},l={class:"text-2xl font-bold md:text-4xl"};function d(e,_){return o(),c("section",r,[a("h1",l,[s(e.$slots,"default")]),s(e.$slots,"description")])}const i=t(n,[["render",d]]);export{i as default};
