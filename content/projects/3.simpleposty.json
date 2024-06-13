@@ -1,0 +1,11 @@
+{
+  "url": "https://dub.sh/simpleposty",
+  "thumbnail": "/projects/logo/simpleposty.svg",
+  "thumbnailBg": "bg-gray-800",
+  "thumbnailAlt": "simpleposty landing page",
+  "category": "development",
+  "heading": "Simpleposty",
+  "description": "Create beautiful social media images with just a few clicks for free.",
+  "role": "Author",
+  "status": "active"
+}

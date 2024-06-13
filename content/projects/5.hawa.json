@@ -1,0 +1,11 @@
+{
+    "url": "https://dub.sh/hawaapp",
+    "thumbnail": "/projects/logo/hawa.png",
+    "thumbnailBg": "bg-slate-600",
+    "thumbnailAlt": "hawa repo",
+    "category": "development",
+    "heading": "Hawa",
+    "description": "A simple, lightweight app that lives in your menubar and plays ambient sounds to help you focus on your work or relax.",
+    "role": "Contributor",
+    "status": "completed"
+}
